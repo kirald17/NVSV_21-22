@@ -10,7 +10,7 @@ Ich wollte neben einer kleinen Konsolenanwendung auch eine Anwendung mit GUI sch
 
 ### Scribble
 
-<img src="C:\Users\Alex\Desktop\IMG_20210926_175340.jpg" alt="IMG_20210926_175340" style="zoom:8%; transform:rotate(-90deg)" />
+<img src="scribbleCC.jpg" alt="IMG_20210926_175340" style="zoom:8%; transform:rotate(-90deg)" />
 
 ### Ziel
 

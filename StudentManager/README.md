@@ -14,7 +14,7 @@ Die Idee ist es eine einfache Konsolenanwendung zu erstellen die es dem User erm
 
 ### Scribble
 
-<img src="C:\Users\Alex\Desktop\IMG_20210926_174955.jpg" alt="IMG_20210926_174955" style="zoom:8%; transform:rotate(-90deg)" />
+<img src="scribbleSM.jpg" alt="IMG_20210926_174955" style="zoom:8%; transform:rotate(-90deg)" />
 
 ### Ziel
 
