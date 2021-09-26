@@ -10,6 +10,8 @@ Die Idee ist es eine einfache Konsolenanwendung zu erstellen die es dem User erm
 - einen Schüler aus der Liste entfernen
 - alle Schüler einer Liste anzeigen
 
+
+
 ### Ziel
 
 Das Ziel dieser Anwendung ist es mich mit den Grundlagen in Python vertraut zu machen darunter besonders:
